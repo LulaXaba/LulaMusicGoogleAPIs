@@ -2,7 +2,7 @@
 
 Project Description:
 Overview:
-LulaMusicGoogleAPIs is a web application designed to manage and stream music tracks, create and manage playlists, and handle user authentication and favorites. The application leverages Google Drive for storing music files and utilizes a MongoDB database for managing user data, playlists, and favorite tracks. The API is built using Node.js and Express, providing a robust and scalable backend for music management.
+MusicGoogleAPIs is a web application designed to manage and stream music tracks, create and manage playlists, and handle user authentication and favorites. The application leverages Google Drive for storing music files and utilizes a MongoDB database for managing user data, playlists, and favorite tracks. The API is built using Node.js and Express, providing a robust and scalable backend for music management.
 Key Features:
 User Management: Users can register, log in, and manage their profiles. Authentication is handled using JSON Web Tokens (JWT) to ensure secure access to user-specific data.
 Music Management: Users can upload, stream, and download music tracks. The application integrates with Google Drive to store and retrieve music files.
@@ -61,4 +61,4 @@ npm start
 The server will run on http://localhost:3000.
 
 Conclusion:
-LulaMusicGoogleAPIs provides a comprehensive solution for music management, allowing users to interact with their music collections seamlessly. With a focus on user experience and data integrity, this application is designed to cater to music enthusiasts looking for a robust platform to manage their favorite tracks and playlists.
+MusicGoogleAPIs provides a comprehensive solution for music management, allowing users to interact with their music collections seamlessly. With a focus on user experience and data integrity, this application is designed to cater to music enthusiasts looking for a robust platform to manage their favorite tracks and playlists.
